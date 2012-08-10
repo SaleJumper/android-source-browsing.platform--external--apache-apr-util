@@ -42,7 +42,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="2"
-				AdditionalIncludeDirectories="./include;&quot;../apr-1.2.12/include&quot;;./include/private;&quot;../apr-iconv/include&quot;;./dbm/sdbm;&quot;$(ProjectDir)..\expat\lib&quot;"
+				AdditionalIncludeDirectories="./include;&quot;../apache-apr/include&quot;;./include/private;&quot;../apr-iconv/include&quot;;./dbm/sdbm;&quot;$(ProjectDir)..\expat\lib&quot;"
 				PreprocessorDefinitions="NDEBUG;APR_DECLARE_STATIC;APU_DECLARE_STATIC;API_DECLARE_STATIC;APU_USE_SDBM;XML_STATIC;WIN32;_WINDOWS"
 				StringPooling="true"
 				RuntimeLibrary="2"
@@ -106,7 +106,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				AdditionalOptions="/EHsc "
-				AdditionalIncludeDirectories="./include;&quot;../apr-1.2.12/include&quot;;./include/private;&quot;../apr-iconv/include&quot;;./dbm/sdbm;&quot;$(ProjectDir)..\expat\lib&quot;"
+				AdditionalIncludeDirectories="./include;&quot;../apache-apr/include&quot;;./include/private;&quot;../apr-iconv/include&quot;;./dbm/sdbm;&quot;$(ProjectDir)..\expat\lib&quot;"
 				PreprocessorDefinitions="_DEBUG;APR_DECLARE_STATIC;APU_DECLARE_STATIC;API_DECLARE_STATIC;APU_USE_SDBM;XML_STATIC;WIN32;_WINDOWS"
 				RuntimeLibrary="3"
 				PrecompiledHeaderFile=""
