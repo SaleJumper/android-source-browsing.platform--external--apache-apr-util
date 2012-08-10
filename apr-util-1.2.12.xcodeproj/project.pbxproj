@@ -225,59 +225,59 @@
 		B00B8CC90BD003D1007535DA /* xlate.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = xlate.c; path = xlate/xlate.c; sourceTree = "<group>"; };
 		B00B8CCB0BD003D1007535DA /* apr_xml.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = apr_xml.c; path = xml/apr_xml.c; sourceTree = "<group>"; };
 		B070565E0BD00ABB00D257E3 /* expat.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = expat.h; path = xml/expat/lib/expat.h; sourceTree = SOURCE_ROOT; };
-		B0B5F42F0BD006EC00237B3C /* apr_proc_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_proc_mutex.h; path = "../apr-1.2.12/include/apr_proc_mutex.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4300BD006EC00237B3C /* sha2.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = sha2.h; path = "../apr-1.2.12/random/unix/sha2.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4310BD006EC00237B3C /* apr_hash.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_hash.h; path = "../apr-1.2.12/include/apr_hash.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4320BD006EC00237B3C /* apr_arch_networkio.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_networkio.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_networkio.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4330BD006EC00237B3C /* apr_network_io.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_network_io.h; path = "../apr-1.2.12/include/apr_network_io.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4340BD006EC00237B3C /* apr_arch_inherit.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_inherit.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_inherit.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4350BD006EC00237B3C /* apr_thread_proc.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_proc.h; path = "../apr-1.2.12/include/apr_thread_proc.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4360BD006EC00237B3C /* apr_getopt.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_getopt.h; path = "../apr-1.2.12/include/apr_getopt.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4370BD006EC00237B3C /* apr_thread_rwlock.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_rwlock.h; path = "../apr-1.2.12/include/apr_thread_rwlock.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4380BD006EC00237B3C /* apr_version.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_version.h; path = "../apr-1.2.12/include/apr_version.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4390BD006EC00237B3C /* apr_thread_cond.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_cond.h; path = "../apr-1.2.12/include/apr_thread_cond.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F43A0BD006EC00237B3C /* apr_file_info.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_file_info.h; path = "../apr-1.2.12/include/apr_file_info.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F43B0BD006EC00237B3C /* apr.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr.h; path = "../apr-1.2.12/include/apr.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F43C0BD006EC00237B3C /* apr_atomic.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_atomic.h; path = "../apr-1.2.12/include/apr_atomic.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F43D0BD006EC00237B3C /* apr_fnmatch.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_fnmatch.h; path = "../apr-1.2.12/include/apr_fnmatch.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F43E0BD006EC00237B3C /* apr_arch_proc_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_proc_mutex.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_proc_mutex.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F43F0BD006EC00237B3C /* apr_inherit.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_inherit.h; path = "../apr-1.2.12/include/apr_inherit.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4400BD006EC00237B3C /* apr_strings.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_strings.h; path = "../apr-1.2.12/include/apr_strings.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4410BD006EC00237B3C /* apr_private_common.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_private_common.h; path = "../apr-1.2.12/include/arch/apr_private_common.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4420BD006EC00237B3C /* apr_signal.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_signal.h; path = "../apr-1.2.12/include/apr_signal.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4430BD006EC00237B3C /* apr_random.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_random.h; path = "../apr-1.2.12/include/apr_random.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4440BD006EC00237B3C /* apr_arch_global_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_global_mutex.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_global_mutex.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4450BD006EC00237B3C /* apr_file_io.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_file_io.h; path = "../apr-1.2.12/include/apr_file_io.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4460BD006EC00237B3C /* apr_poll.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_poll.h; path = "../apr-1.2.12/include/apr_poll.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4470BD006EC00237B3C /* apr_errno.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_errno.h; path = "../apr-1.2.12/include/apr_errno.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4480BD006EC00237B3C /* apr_dso.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_dso.h; path = "../apr-1.2.12/include/apr_dso.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4490BD006EC00237B3C /* apr_portable.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_portable.h; path = "../apr-1.2.12/include/apr_portable.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F44A0BD006EC00237B3C /* apr_allocator.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_allocator.h; path = "../apr-1.2.12/include/apr_allocator.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F44B0BD006EC00237B3C /* apr_time.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_time.h; path = "../apr-1.2.12/include/apr_time.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F44C0BD006EC00237B3C /* apr_arch_threadproc.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_threadproc.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_threadproc.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F44D0BD006EC00237B3C /* apr_lib.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_lib.h; path = "../apr-1.2.12/include/apr_lib.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F44E0BD006EC00237B3C /* apr_user.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_user.h; path = "../apr-1.2.12/include/apr_user.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F44F0BD006EC00237B3C /* apr_arch_misc.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_misc.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_misc.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4500BD006EC00237B3C /* apr_private.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_private.h; path = "../apr-1.2.12/include/arch/unix/apr_private.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4510BD006EC00237B3C /* apr_env.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_env.h; path = "../apr-1.2.12/include/apr_env.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4520BD006EC00237B3C /* apr_arch_thread_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_thread_mutex.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_thread_mutex.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4530BD006EC00237B3C /* apr_shm.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_shm.h; path = "../apr-1.2.12/include/apr_shm.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4540BD006EC00237B3C /* apr_general.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_general.h; path = "../apr-1.2.12/include/apr_general.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4550BD006EC00237B3C /* apr_support.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_support.h; path = "../apr-1.2.12/include/apr_support.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4560BD006EC00237B3C /* apr_thread_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_mutex.h; path = "../apr-1.2.12/include/apr_thread_mutex.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4570BD006EC00237B3C /* apr_pools.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_pools.h; path = "../apr-1.2.12/include/apr_pools.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4580BD006EC00237B3C /* apr_arch_thread_rwlock.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_thread_rwlock.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_thread_rwlock.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4590BD006EC00237B3C /* apr_tables.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_tables.h; path = "../apr-1.2.12/include/apr_tables.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F45A0BD006EC00237B3C /* apr_global_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_global_mutex.h; path = "../apr-1.2.12/include/apr_global_mutex.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F45B0BD006EC00237B3C /* apr_arch_shm.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_shm.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_shm.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F45C0BD006EC00237B3C /* apr_arch_file_io.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_file_io.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_file_io.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F45D0BD006EC00237B3C /* apr_mmap.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_mmap.h; path = "../apr-1.2.12/include/apr_mmap.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F45E0BD006EC00237B3C /* apr_want.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_want.h; path = "../apr-1.2.12/include/apr_want.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F45F0BD006EC00237B3C /* apr_arch_dso.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_dso.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_dso.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4600BD006EC00237B3C /* apr_arch_poll_private.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_poll_private.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_poll_private.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4610BD006EC00237B3C /* apr_arch_thread_cond.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_thread_cond.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_thread_cond.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4620BD006EC00237B3C /* apr_ring.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_ring.h; path = "../apr-1.2.12/include/apr_ring.h"; sourceTree = SOURCE_ROOT; };
-		B0B5F4630BD006EC00237B3C /* apr_arch_internal_time.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_internal_time.h; path = "../apr-1.2.12/include/arch/unix/apr_arch_internal_time.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F42F0BD006EC00237B3C /* apr_proc_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_proc_mutex.h; path = "../apache-apr/include/apr_proc_mutex.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4300BD006EC00237B3C /* sha2.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = sha2.h; path = "../apache-apr/random/unix/sha2.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4310BD006EC00237B3C /* apr_hash.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_hash.h; path = "../apache-apr/include/apr_hash.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4320BD006EC00237B3C /* apr_arch_networkio.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_networkio.h; path = "../apache-apr/include/arch/unix/apr_arch_networkio.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4330BD006EC00237B3C /* apr_network_io.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_network_io.h; path = "../apache-apr/include/apr_network_io.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4340BD006EC00237B3C /* apr_arch_inherit.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_inherit.h; path = "../apache-apr/include/arch/unix/apr_arch_inherit.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4350BD006EC00237B3C /* apr_thread_proc.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_proc.h; path = "../apache-apr/include/apr_thread_proc.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4360BD006EC00237B3C /* apr_getopt.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_getopt.h; path = "../apache-apr/include/apr_getopt.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4370BD006EC00237B3C /* apr_thread_rwlock.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_rwlock.h; path = "../apache-apr/include/apr_thread_rwlock.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4380BD006EC00237B3C /* apr_version.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_version.h; path = "../apache-apr/include/apr_version.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4390BD006EC00237B3C /* apr_thread_cond.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_cond.h; path = "../apache-apr/include/apr_thread_cond.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F43A0BD006EC00237B3C /* apr_file_info.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_file_info.h; path = "../apache-apr/include/apr_file_info.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F43B0BD006EC00237B3C /* apr.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr.h; path = "../apache-apr/include/apr.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F43C0BD006EC00237B3C /* apr_atomic.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_atomic.h; path = "../apache-apr/include/apr_atomic.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F43D0BD006EC00237B3C /* apr_fnmatch.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_fnmatch.h; path = "../apache-apr/include/apr_fnmatch.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F43E0BD006EC00237B3C /* apr_arch_proc_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_proc_mutex.h; path = "../apache-apr/include/arch/unix/apr_arch_proc_mutex.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F43F0BD006EC00237B3C /* apr_inherit.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_inherit.h; path = "../apache-apr/include/apr_inherit.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4400BD006EC00237B3C /* apr_strings.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_strings.h; path = "../apache-apr/include/apr_strings.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4410BD006EC00237B3C /* apr_private_common.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_private_common.h; path = "../apache-apr/include/arch/apr_private_common.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4420BD006EC00237B3C /* apr_signal.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_signal.h; path = "../apache-apr/include/apr_signal.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4430BD006EC00237B3C /* apr_random.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_random.h; path = "../apache-apr/include/apr_random.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4440BD006EC00237B3C /* apr_arch_global_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_global_mutex.h; path = "../apache-apr/include/arch/unix/apr_arch_global_mutex.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4450BD006EC00237B3C /* apr_file_io.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_file_io.h; path = "../apache-apr/include/apr_file_io.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4460BD006EC00237B3C /* apr_poll.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_poll.h; path = "../apache-apr/include/apr_poll.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4470BD006EC00237B3C /* apr_errno.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_errno.h; path = "../apache-apr/include/apr_errno.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4480BD006EC00237B3C /* apr_dso.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_dso.h; path = "../apache-apr/include/apr_dso.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4490BD006EC00237B3C /* apr_portable.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_portable.h; path = "../apache-apr/include/apr_portable.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F44A0BD006EC00237B3C /* apr_allocator.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_allocator.h; path = "../apache-apr/include/apr_allocator.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F44B0BD006EC00237B3C /* apr_time.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_time.h; path = "../apache-apr/include/apr_time.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F44C0BD006EC00237B3C /* apr_arch_threadproc.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_threadproc.h; path = "../apache-apr/include/arch/unix/apr_arch_threadproc.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F44D0BD006EC00237B3C /* apr_lib.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_lib.h; path = "../apache-apr/include/apr_lib.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F44E0BD006EC00237B3C /* apr_user.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_user.h; path = "../apache-apr/include/apr_user.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F44F0BD006EC00237B3C /* apr_arch_misc.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_misc.h; path = "../apache-apr/include/arch/unix/apr_arch_misc.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4500BD006EC00237B3C /* apr_private.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_private.h; path = "../apache-apr/include/arch/unix/apr_private.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4510BD006EC00237B3C /* apr_env.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_env.h; path = "../apache-apr/include/apr_env.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4520BD006EC00237B3C /* apr_arch_thread_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_thread_mutex.h; path = "../apache-apr/include/arch/unix/apr_arch_thread_mutex.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4530BD006EC00237B3C /* apr_shm.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_shm.h; path = "../apache-apr/include/apr_shm.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4540BD006EC00237B3C /* apr_general.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_general.h; path = "../apache-apr/include/apr_general.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4550BD006EC00237B3C /* apr_support.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_support.h; path = "../apache-apr/include/apr_support.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4560BD006EC00237B3C /* apr_thread_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_thread_mutex.h; path = "../apache-apr/include/apr_thread_mutex.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4570BD006EC00237B3C /* apr_pools.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_pools.h; path = "../apache-apr/include/apr_pools.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4580BD006EC00237B3C /* apr_arch_thread_rwlock.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_thread_rwlock.h; path = "../apache-apr/include/arch/unix/apr_arch_thread_rwlock.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4590BD006EC00237B3C /* apr_tables.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_tables.h; path = "../apache-apr/include/apr_tables.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F45A0BD006EC00237B3C /* apr_global_mutex.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_global_mutex.h; path = "../apache-apr/include/apr_global_mutex.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F45B0BD006EC00237B3C /* apr_arch_shm.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_shm.h; path = "../apache-apr/include/arch/unix/apr_arch_shm.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F45C0BD006EC00237B3C /* apr_arch_file_io.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_file_io.h; path = "../apache-apr/include/arch/unix/apr_arch_file_io.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F45D0BD006EC00237B3C /* apr_mmap.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_mmap.h; path = "../apache-apr/include/apr_mmap.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F45E0BD006EC00237B3C /* apr_want.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_want.h; path = "../apache-apr/include/apr_want.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F45F0BD006EC00237B3C /* apr_arch_dso.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_dso.h; path = "../apache-apr/include/arch/unix/apr_arch_dso.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4600BD006EC00237B3C /* apr_arch_poll_private.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_poll_private.h; path = "../apache-apr/include/arch/unix/apr_arch_poll_private.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4610BD006EC00237B3C /* apr_arch_thread_cond.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_thread_cond.h; path = "../apache-apr/include/arch/unix/apr_arch_thread_cond.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4620BD006EC00237B3C /* apr_ring.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_ring.h; path = "../apache-apr/include/apr_ring.h"; sourceTree = SOURCE_ROOT; };
+		B0B5F4630BD006EC00237B3C /* apr_arch_internal_time.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = apr_arch_internal_time.h; path = "../apache-apr/include/arch/unix/apr_arch_internal_time.h"; sourceTree = SOURCE_ROOT; };
 		D2AAC046055464E500DB518D /* libapr-util-1.2.12.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libapr-util-1.2.12.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D720CB740D98139F003AE8EC /* MacConfigExternalDebug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = MacConfigExternalDebug.xcconfig; path = ../MacConfigExternalDebug.xcconfig; sourceTree = SOURCE_ROOT; };
 		D720CB750D98139F003AE8EC /* MacConfigExternalRelease.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = MacConfigExternalRelease.xcconfig; path = ../MacConfigExternalRelease.xcconfig; sourceTree = SOURCE_ROOT; };
@@ -698,8 +698,8 @@
 				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
 				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
 				HEADER_SEARCH_PATHS = (
-					"../apr-1.2.12",
-					"../sqlite-3.6.23.1",
+					"../apache-apr",
+					../sqlite,
 				);
 				OTHER_CFLAGS = (
 					"$(inherited)",
@@ -719,8 +719,8 @@
 				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
 				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
 				HEADER_SEARCH_PATHS = (
-					"../apr-1.2.12",
-					"../sqlite-3.6.23.1",
+					"../apache-apr",
+					../sqlite,
 				);
 				OTHER_CFLAGS = (
 					"$(inherited)",
